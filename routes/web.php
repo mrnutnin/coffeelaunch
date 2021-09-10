@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\EcommerceController;
+use App\Http\Controllers\HomeController;
 use App\Http\Controllers\UiController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
